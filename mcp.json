@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "leadpoet": {
+      "type": "http",
+      "url": "https://leadpoet.com/mcp"
+    }
+  }
+}
