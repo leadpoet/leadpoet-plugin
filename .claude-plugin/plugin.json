@@ -1,0 +1,11 @@
+{
+  "name": "leadpoet",
+  "version": "1.0.0",
+  "description": "Find ICP-qualified B2B companies and contacts, then manage pipeline and outreach.",
+  "author": { "name": "Leadpoet", "email": "hello@leadpoet.com", "url": "https://leadpoet.com" },
+  "homepage": "https://leadpoet.com/docs/api#connectors",
+  "repository": "https://github.com/leadpoet/leadpoet-plugin",
+  "license": "MIT",
+  "keywords": ["leadpoet", "sales", "prospecting", "leads", "pipeline", "outreach", "mcp"],
+  "mcpServers": "./mcp.json"
+}

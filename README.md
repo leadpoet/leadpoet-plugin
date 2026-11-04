@@ -1,8 +1,23 @@
-# Leadpoet for Cursor and Grok
+# Leadpoet plugin
 
 Leadpoet turns your ideal customer profile into researched, qualified
 companies and contacts, then moves them through your pipeline and outreach.
-This plugin connects Cursor, Grok and Grok Bot to your Leadpoet workspace.
+This plugin connects Claude Code, Cursor, Grok and Grok Bot to your Leadpoet
+workspace: the hosted MCP server plus the `leadpoet-workspace` agent skill.
+
+## Install
+
+Claude Code:
+
+```sh
+/plugin marketplace add leadpoet/leadpoet-plugin
+/plugin install leadpoet@leadpoet
+```
+
+Cursor: install **Leadpoet** from the Cursor plugin directory, or add this
+repository as a plugin.
+
+Any other MCP client: add `https://leadpoet.com/mcp` as a remote (HTTP) server.
 
 ## Requirements
 

@@ -1,0 +1,14 @@
+{
+  "name": "leadpoet",
+  "owner": { "name": "Leadpoet", "email": "hello@leadpoet.com" },
+  "metadata": { "description": "Leadpoet plugins for Claude Code." },
+  "plugins": [
+    {
+      "name": "leadpoet",
+      "source": "./",
+      "description": "Find ICP-qualified B2B companies and contacts, then manage pipeline and outreach.",
+      "homepage": "https://leadpoet.com/docs/api#connectors",
+      "category": "productivity"
+    }
+  ]
+}
