@@ -5,6 +5,14 @@ companies and contacts, then moves them through your pipeline and outreach.
 This plugin connects Claude Code, Cursor, Grok and Grok Bot to your Leadpoet
 workspace: the hosted MCP server plus the `leadpoet-workspace` agent skill.
 
+## Free plan
+
+Every Leadpoet plan, Free included, comes with the CRM pipeline, email and
+LinkedIn outreach, HubSpot, Slack and webhooks, and a monthly allowance of AI
+actions for writing outreach sequences. Credits pay only for new lead
+requests, phone numbers and signals. [Start free](https://leadpoet.com/auth) ·
+[Pricing](https://leadpoet.com/pricing)
+
 ## Install
 
 Claude Code:
