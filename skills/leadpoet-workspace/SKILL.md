@@ -14,8 +14,8 @@ workspaces means using a different explicitly selected credential.
 
 ## Setup
 
-1. Sign up at https://leadpoet.com and
-   [request API access](https://leadpoet.com/docs/api#access) for the workspace.
+1. Sign up at https://leadpoet.com. Every workspace has API access unless an
+   administrator turned it off.
 2. Install the CLI with `npm install -g @leadpoet/client`, or connect the MCP
    server `https://leadpoet.com/mcp`, which signs in with OAuth and needs no key.
 3. For the CLI, create a key in Leadpoet under **Account → Developer → API

@@ -1,7 +1,7 @@
 {
   "name": "leadpoet",
   "displayName": "Leadpoet",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Find ICP-qualified B2B companies and contacts, then run your CRM pipeline and email and LinkedIn outreach. Free plan available.",
   "author": { "name": "Leadpoet", "email": "hello@leadpoet.com" },
   "homepage": "https://leadpoet.com/docs/api#connectors",
