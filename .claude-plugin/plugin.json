@@ -1,11 +1,11 @@
 {
   "name": "leadpoet",
-  "version": "1.1.0",
-  "description": "Find ICP-qualified B2B companies and contacts, then run your CRM pipeline and email and LinkedIn outreach. Free plan available.",
+  "version": "1.1.1",
+  "description": "Find B2B leads and buying signals, run cold email and LinkedIn outreach, and manage your CRM pipeline. Free plan available.",
   "author": { "name": "Leadpoet", "email": "hello@leadpoet.com", "url": "https://leadpoet.com" },
-  "homepage": "https://leadpoet.com/docs/api#connectors",
+  "homepage": "https://leadpoet.com/ai-assistants",
   "repository": "https://github.com/leadpoet/leadpoet-plugin",
   "license": "MIT",
-  "keywords": ["leadpoet", "sales", "prospecting", "leads", "crm", "pipeline", "outreach", "free", "mcp"],
+  "keywords": ["leadpoet", "sales", "prospecting", "lead-generation", "b2b-leads", "crm", "pipeline", "cold-email", "linkedin-outreach", "sales-automation", "buying-signals", "ai-sdr", "mcp"],
   "mcpServers": "./mcp.json"
 }
