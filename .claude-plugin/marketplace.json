@@ -1,12 +1,17 @@
 {
   "name": "leadpoet",
-  "owner": { "name": "Leadpoet", "email": "hello@leadpoet.com" },
-  "metadata": { "description": "Leadpoet plugins for Claude Code." },
+  "owner": {
+    "name": "Leadpoet",
+    "email": "hello@leadpoet.com"
+  },
+  "metadata": {
+    "description": "Leadpoet plugins for Claude Code."
+  },
   "plugins": [
     {
       "name": "leadpoet",
       "source": "./",
-      "description": "Find B2B leads and buying signals, run cold email and LinkedIn outreach, and manage your CRM pipeline. Free plan available.",
+      "description": "Find B2B leads and buying signals, run email and LinkedIn outreach, and manage your CRM pipeline in Leadpoet.",
       "homepage": "https://leadpoet.com/ai-assistants",
       "category": "productivity"
     }

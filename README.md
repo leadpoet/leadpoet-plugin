@@ -2,9 +2,8 @@
 
 Leadpoet is an AI sales platform: find verified B2B leads and buying signals,
 run email and LinkedIn outreach, and manage your sales pipeline. This plugin
-connects Claude Code, Cursor, Grok and Grok Bot to your Leadpoet workspace:
-the hosted MCP server plus the `leadpoet-workspace` agent skill. It also
-includes two free outbound skills that work without a Leadpoet account.
+connects Claude to your Leadpoet workspace: the hosted MCP server plus the
+`leadpoet-workspace` agent skill.
 
 ## Free plan
 
@@ -28,28 +27,7 @@ Claude Code:
 /plugin install leadpoet@leadpoet
 ```
 
-Cursor: add this repository as a plugin, or add the server from `mcp.json`.
-
 Any other MCP client: add `https://leadpoet.com/mcp` as a remote (HTTP) server.
-
-## Free outbound skills
-
-These skills run on their own, with no Leadpoet account or API key. Each one
-runs a small script (Node 18 or later, no install) for its checks and numbers,
-so the agent doesn't guess.
-
-| Skill | What it does |
-| --- | --- |
-| `outbound-planner` | Works out the companies, mailboxes and domains a meeting goal needs, how big an A/B test must be, and whether a result is a real winner. |
-| `cold-email-review` | Runs the swap test on a cold email's reason for writing, checks length, pitch, ask and the legal basics, and rewrites it from the draft's own facts. |
-
-Install one skill in any agent that supports skills:
-
-```sh
-npx skills add leadpoet/leadpoet-plugin --skill cold-email-review
-```
-
-Installing the plugin adds both.
 
 ## Requirements
 
@@ -95,6 +73,13 @@ before each call. Send tools appear only when you allow sending.
 ## Manage connections
 
 Disconnect anytime in Leadpoet under Settings → Integrations → AI assistants.
+
+## Troubleshooting
+
+If sign-in fails or tools are missing, disconnect under Settings → Integrations
+→ AI assistants, then connect again. Send tools appear only on a connection
+that allows sending. If a tool reports too few credits, check your balance in
+Leadpoet.
 
 ## Support
 
