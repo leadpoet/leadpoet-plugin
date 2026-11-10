@@ -5,19 +5,6 @@ run email and LinkedIn outreach, and manage your sales pipeline. This plugin
 connects Claude to your Leadpoet workspace: the hosted MCP server plus the
 `leadpoet-workspace` agent skill.
 
-## Free plan
-
-The Free plan includes the company, contact and deal pipeline; email or
-LinkedIn outreach from a connected inbox or LinkedIn account; a monthly
-allowance of AI actions for sequences, follow-ups and scheduled agent briefs;
-reply and campaign tracking; teammates; HubSpot, Slack and webhooks; and Excel
-export. A new account's first lead request is free: researched companies that
-match your ideal customer profile, each with verified contacts. After that,
-lead requests and Signals use credits. Current limits and credit costs are on
-[the pricing page](https://leadpoet.com/pricing).
-
-[Start free](https://leadpoet.com/auth)
-
 ## Install
 
 Claude Code:
@@ -31,8 +18,10 @@ Any other MCP client: add `https://leadpoet.com/mcp` as a remote (HTTP) server.
 
 ## Requirements
 
-A Leadpoet account; the Free plan works. The workspace owner or a team admin
-connects. If you have no account, create one on the sign-in page that opens.
+A Leadpoet account; the Free plan works. Lead requests and Signals use
+credits; see [pricing](https://leadpoet.com/pricing). The workspace owner or a
+team admin connects. If you have no account, create one on the sign-in page
+that opens.
 
 ## Sign in
 
@@ -67,8 +56,8 @@ pipeline by stage and flag deals that stalled", "Who replied to my outreach,
 and what needs an answer today?" or "Every weekday at 8am, brief me on new
 replies, signals and stalled deals."
 
-Tools that send, spend credits or change records are labeled, so the app asks
-before each call. Send tools appear only when you allow sending.
+Tools that send, spend credits or change records are marked as such. Send
+tools appear only when you allow sending.
 
 ## Manage connections
 

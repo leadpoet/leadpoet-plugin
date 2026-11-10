@@ -1,12 +1,13 @@
 {
   "name": "leadpoet",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Find B2B leads and buying signals, run email and LinkedIn outreach, and manage your CRM pipeline in Leadpoet.",
   "author": {
     "name": "Leadpoet",
     "email": "hello@leadpoet.com",
     "url": "https://leadpoet.com"
   },
+  "icon": "./assets/logo.png",
   "homepage": "https://leadpoet.com/ai-assistants",
   "repository": "https://github.com/leadpoet/leadpoet-plugin",
   "license": "MIT",
