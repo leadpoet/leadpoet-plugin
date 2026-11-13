@@ -11,7 +11,7 @@ includes two free outbound skills that work without a Leadpoet account.
 The Free plan includes the company, contact and deal pipeline; email or
 LinkedIn outreach from a connected inbox or LinkedIn account; a monthly
 allowance of AI actions for sequences, follow-ups and scheduled agent briefs;
-reply and campaign tracking; teammates; HubSpot, Slack and webhooks; and Excel
+reply and campaign tracking; HubSpot, Slack and webhooks; and Excel
 export. A new account's first lead request is free: researched companies that
 match your ideal customer profile, each with verified contacts. After that,
 lead requests and Signals use credits. Current limits and credit costs are on
