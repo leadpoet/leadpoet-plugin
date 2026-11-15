@@ -1,0 +1,10 @@
+{
+  "name": "leadpoet",
+  "version": "1.1.2",
+  "description": "Find B2B leads and buying signals, run cold email and LinkedIn outreach, and manage your CRM pipeline with Leadpoet.",
+  "mcpServers": {
+    "leadpoet": {
+      "httpUrl": "https://leadpoet.com/mcp"
+    }
+  }
+}
