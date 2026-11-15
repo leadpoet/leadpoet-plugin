@@ -2,7 +2,8 @@
 
 Leadpoet is an AI sales platform: find verified B2B leads and buying signals,
 run email and LinkedIn outreach, and manage your sales pipeline. This plugin
-connects Claude Code, Cursor, Grok and Grok Bot to your Leadpoet workspace:
+connects Claude Code, Cursor, Gemini CLI, Grok and Grok Bot to your Leadpoet
+workspace:
 the hosted MCP server plus the `leadpoet-workspace` agent skill. It also
 includes two free outbound skills that work without a Leadpoet account.
 
@@ -29,6 +30,12 @@ Claude Code:
 ```
 
 Cursor: add this repository as a plugin, or add the server from `mcp.json`.
+
+Gemini CLI:
+
+```sh
+gemini extensions install https://github.com/leadpoet/leadpoet-plugin
+```
 
 Any other MCP client: add `https://leadpoet.com/mcp` as a remote (HTTP) server.
 
