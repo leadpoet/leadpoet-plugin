@@ -37,6 +37,8 @@ Gemini CLI:
 gemini extensions install https://github.com/leadpoet/leadpoet-plugin
 ```
 
+Cline: follow [llms-install.md](llms-install.md).
+
 Any other MCP client: add `https://leadpoet.com/mcp` as a remote (HTTP) server.
 
 ## Free outbound skills
