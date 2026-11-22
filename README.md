@@ -18,7 +18,7 @@ Any other MCP client: add `https://leadpoet.com/mcp` as a remote (HTTP) server.
 
 ## Requirements
 
-A Leadpoet account; the Free plan works. Lead requests and Signals use
+A Leadpoet account. Lead requests and Signals use
 credits; see [pricing](https://leadpoet.com/pricing). The workspace owner or a
 team admin connects. If you have no account, create one on the sign-in page
 that opens.
@@ -37,8 +37,7 @@ first use a Leadpoet tool, sign in to Leadpoet and choose **Read only** or
   pipeline in 1–2 days. Repeat a request daily or weekly, or find more
   contacts at a company.
 - **CRM pipeline:** see companies, contacts and deals by stage, move them, log
-  notes, rate fit and add follow-up tasks. New Leadpoet leads go to a
-  connected HubSpot.
+  notes, rate fit and add follow-up tasks.
 - **Outreach:** build an audience and an email and LinkedIn campaign, with
   AI-written sequences for you to review. See who replied and what needs an
   answer, and how each campaign is doing. Sending uses the email inbox and
