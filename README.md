@@ -5,20 +5,7 @@ run email and LinkedIn outreach, and manage your sales pipeline. This plugin
 connects Claude Code, Cursor, Gemini CLI, Grok and Grok Bot to your Leadpoet
 workspace:
 the hosted MCP server plus the `leadpoet-workspace` agent skill. It also
-includes two free outbound skills that work without a Leadpoet account.
-
-## Free plan
-
-The Free plan includes the company, contact and deal pipeline; email or
-LinkedIn outreach from a connected inbox or LinkedIn account; a monthly
-allowance of AI actions for sequences, follow-ups and scheduled agent briefs;
-reply and campaign tracking; HubSpot, Slack and webhooks; and Excel
-export. A new account's first lead request is free: researched companies that
-match your ideal customer profile, each with verified contacts. After that,
-lead requests and Signals use credits. Current limits and credit costs are on
-[the pricing page](https://leadpoet.com/pricing).
-
-[Start free](https://leadpoet.com/auth)
+includes two outbound skills that work without a Leadpoet account.
 
 ## Install
 
@@ -62,7 +49,8 @@ Installing the plugin adds both.
 
 ## Requirements
 
-A Leadpoet account; the Free plan works. The workspace owner or a team admin
+A Leadpoet account. Lead requests and Signals use credits; see
+[pricing](https://leadpoet.com/pricing). The workspace owner or a team admin
 connects. If you have no account, create one on the sign-in page that opens.
 
 ## Sign in
@@ -79,8 +67,7 @@ first use a Leadpoet tool, sign in to Leadpoet and choose **Read only** or
   pipeline in 1–2 days. Repeat a request daily or weekly, or find more
   contacts at a company.
 - **CRM pipeline:** see companies, contacts and deals by stage, move them, log
-  notes, rate fit and add follow-up tasks. New Leadpoet leads go to a
-  connected HubSpot.
+  notes, rate fit and add follow-up tasks.
 - **Outreach:** build an audience and an email and LinkedIn campaign, with
   AI-written sequences for you to review. See who replied and what needs an
   answer, and how each campaign is doing. Sending uses the email inbox and
