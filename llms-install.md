@@ -28,7 +28,7 @@ MCP Servers), merging it into any existing `mcpServers`:
 Set `type` to `streamableHttp`; without it Cline uses the older SSE transport.
 
 The first time the server connects, Cline asks to authenticate and opens the
-browser. Sign in to Leadpoet (or create a free account on that page), then
+browser. Sign in to Leadpoet (or create an account on that page), then
 choose **Read only** or **Read and edit**, and whether the app may send
 messages. The browser returns to Cline and the Leadpoet tools appear.
 
